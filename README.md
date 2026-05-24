@@ -1,41 +1,73 @@
-#LinkedIn Profile Mini Project
-A simple React Native application that demonstrates a LinkedIn-style profile UI with modern layout, reusable components, and clean design principles.
+# 👤 LinkedIn Profile Mini Project
 
-##Project Overview
-This project is a mini LinkedIn profile clone built using React Native. It focuses on UI design, component structuring, and basic mobile app layout practices.
+A simple React Native application that replicates a LinkedIn-style profile UI using modern layout design, reusable components, and clean UI principles.
 
-You can use it to showcase:
-Profile UI design
-React Native components
-Styling and layout skills
+---
 
-#Features
-👤 User Profile Screen
-🖼️ Profile Picture Section
-📝 Bio / Description Section
-📊 Stats (Followers, Connections, Posts)
-🎨 Clean and modern UI
-📱 Mobile responsive design
-📸 Screenshots
-<p align="center">
-  <img src="./assets/Screenshot 2026-05-24 095217.png" width="300"/>
-</p>
-🛠️ Tech Stack
-React Native
-JavaScript / TypeScript
-React Native Components
-Flexbox for styling
+## 🚀 Project Overview
 
+This project is a **mini LinkedIn profile clone** built with React Native.  
+It focuses on:
+
+- UI/UX design practice  
+- Component-based architecture  
+- Mobile layout using Flexbox  
+- Clean and reusable code structure  
+
+---
+
+## ✨ Features
+
+- 👤 User Profile Screen  
+- 🖼️ Profile Picture Section  
+- 📝 Bio / Description Section  
+- 📊 Stats (Followers, Connections, Posts)  
+- 🎨 Modern UI Design  
+- 📱 Mobile Responsive Layout  
+- 📸 Screenshot Support  
+
+---
+
+## 🛠️ Tech Stack
+
+- React Native  
+- JavaScript / TypeScript  
+- React Native Components  
+- Flexbox Styling  
+
+---
+
+## 📂 Project Structure
 Linkedin_profile/
-│── assets/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
 │
-│── src/
-│   ├── components/
-│   ├── screens/
-│   ├── App.js
+├── assets/
+│ ├── screenshot1.png
+│ ├── screenshot2.png
 │
-│── package.json
-│── app.json
-│── README.md
+├── src/
+│ ├── components/
+│ ├── screens/
+│
+├── App.js
+├── package.json
+├── app.json
+└── README.md
+
+---
+
+## ⚙️ How to Run Project
+
+```bash
+# 1. Clone repository
+git clone https://github.com/your-username/linkedin-profile-mini-project.git
+
+# 2. Move into folder
+cd Linkedin_profile
+
+# 3. Install dependencies
+npm install
+
+# 4. Start app
+npm start
+npm run android
+npm run ios

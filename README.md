@@ -26,7 +26,7 @@ It focuses on:
 - 📱 Mobile Responsive Layout  
 - 📸 Screenshot Support
  <p align="center">
-  <img src="/assets/screenshot1.png" width="250"/>
+  <img src="/assets/images/screenshot1.png" width="250"/>
 </p>
 
 ---

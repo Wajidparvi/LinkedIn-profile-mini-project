@@ -25,7 +25,7 @@ It focuses on:
 - 🎨 Modern UI Design  
 - 📱 Mobile Responsive Layout  
 - 📸 Screenshot Support
- <p align="center">
+<p align="center">
   <img src="./assets/images/screenshot1.png" width="250"/>
 </p>
 

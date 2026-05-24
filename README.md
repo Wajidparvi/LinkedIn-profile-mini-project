@@ -39,19 +39,19 @@ It focuses on:
 
 ## 📂 Project Structure
 Linkedin_profile/ <br>
-│
-├── assets/␠
-│ ├── screenshot1.png␠
-│ ├── screenshot2.png␠
-│
-├── src/␠
-│ ├── components/␠
-│ ├── screens/␠
-│
-├── App.js␠
-├── package.json␠
-├── app.json␠
-└── README.md␠
+│<br>
+├── assets/<br>
+│ ├── screenshot1.png<br>
+│ ├── screenshot2.png<br>
+│<br>
+├── src/<br>
+│ ├── components/<br>
+│ ├── screens/<br>
+│<br>
+├── App.js<br>
+├── package.json<br>
+├── app.json<br>
+└── README.md<br>
 
 ---
 

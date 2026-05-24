@@ -8,7 +8,8 @@ You can use it to showcase:
 Profile UI design
 React Native components
 Styling and layout skills
-Features
+
+#Features
 👤 User Profile Screen
 🖼️ Profile Picture Section
 📝 Bio / Description Section
@@ -17,7 +18,7 @@ Features
 📱 Mobile responsive design
 📸 Screenshots
 <p align="center">
-  <img src="assets/Screenshot 2026-05-24 095217.png" width="300"/>
+  <img src="./assets/Screenshot 2026-05-24 095217.png" width="300"/>
 </p>
 🛠️ Tech Stack
 React Native

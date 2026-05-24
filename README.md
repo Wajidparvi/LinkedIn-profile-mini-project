@@ -38,20 +38,20 @@ It focuses on:
 ---
 
 ## 📂 Project Structure
-Linkedin_profile/
+Linkedin_profile/ <br>
 │
-├── assets/
-│ ├── screenshot1.png
-│ ├── screenshot2.png
+├── assets/␠
+│ ├── screenshot1.png␠
+│ ├── screenshot2.png␠
 │
-├── src/
-│ ├── components/
-│ ├── screens/
+├── src/␠
+│ ├── components/␠
+│ ├── screens/␠
 │
-├── App.js
-├── package.json
-├── app.json
-└── README.md
+├── App.js␠
+├── package.json␠
+├── app.json␠
+└── README.md␠
 
 ---
 

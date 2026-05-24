@@ -24,7 +24,10 @@ It focuses on:
 - 📊 Stats (Followers, Connections, Posts)  
 - 🎨 Modern UI Design  
 - 📱 Mobile Responsive Layout  
-- 📸 Screenshot Support  
+- 📸 Screenshot Support
+ <p align="center">
+  <img src="assets/screenshot1.png" width="250"/>
+</p>
 
 ---
 
